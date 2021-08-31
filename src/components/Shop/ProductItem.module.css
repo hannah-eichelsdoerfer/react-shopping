@@ -1,6 +1,7 @@
 .item h3 {
   margin: 0.5rem 0;
   font-size: 1.25rem;
+  color: white;
 }
 
 .item header {
@@ -18,7 +19,7 @@
 }
 
 .item p {
-  color: #3a3a3a;
+  color: rgba(255, 255, 255, 0.691);
 }
 
 .actions {
